@@ -9,7 +9,7 @@ Use it as a Reference to build the DMN Project.
 
 **Status**
 
-The project is currently under progress.
+The project is Up to Date
 
 Getting Started
 ---------------
